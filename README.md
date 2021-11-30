@@ -1,5 +1,5 @@
 # cobranca
-Simples projeto de cadastro de títulos a receber com Spring MVC e Thymeleaf
+Simples projeto de cadastro de títulos a receber com Spring MVC e Thymeleaf - Algaworks
 
 * Tecnologias:
    - Spring MVC
